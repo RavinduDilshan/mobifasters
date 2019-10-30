@@ -4,6 +4,7 @@
  *
  * @package WordPress
  */
+echo "dilshan";
 
 if ( 'POST' != $_SERVER['REQUEST_METHOD'] ) {
 	$protocol = $_SERVER['SERVER_PROTOCOL'];
